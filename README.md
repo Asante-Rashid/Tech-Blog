@@ -24,5 +24,5 @@ CMS-style blog site where users can publish their own blog post and comment on o
 
 ---
 ## Mockup
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
+![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/reference.gif) 
 
